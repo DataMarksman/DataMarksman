@@ -45,8 +45,6 @@
 
 </br>
 </br>
-</br>
-
 
 
 # 활용 가능 언어 및 툴 ‍💻 🛠:
@@ -83,9 +81,6 @@
 
 </br>
 </br>
-</br>
-
-
 
 # Contact Me :
 
@@ -98,19 +93,5 @@
 <a href="https://www.linkedin.com/in/환석-강-a0497027b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
-</br>
-</br>
- </p>
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
 
 *************
