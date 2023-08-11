@@ -1,8 +1,5 @@
-<div align="center">
-<a href="www.linkedin.com/in/kanghwanseok">
-    <img alt="GIF" src="https://github.com/DataMarksman/DataMarksman/blob/master/assets/front_1.gif" >
-</a>
-</div>
+[![GIF](https://github.com/DataMarksman/DataMarksman/blob/master/assets/front_1.gif)](https://www.naver.com)
+
 
 # Hello~~
 ## ML Engineer + ML OPS를 꿈꾸는 새내기 개발자 입니다.
