@@ -1,6 +1,7 @@
-
 <div align="center">
-<img alt="GIF" src="https://github.com/DataMarksman/DataMarksman/blob/master/assets/front_1.gif">
+<a href="www.linkedin.com/in/kanghwanseok">
+    <img alt="GIF" src="https://github.com/DataMarksman/DataMarksman/blob/master/assets/front_1.gif" >
+</a>
 </div>
 
 # Hello~~
@@ -8,7 +9,6 @@
 ### 현재 한창 Git Page와 블로그를 새단장 하는 중입니다.
 
 </br>
-
 
 # About ME 💬 :
 
@@ -95,3 +95,6 @@
 </br>
 
 *************
+
+
+              
