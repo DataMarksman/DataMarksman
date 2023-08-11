@@ -1,4 +1,4 @@
-[![GIF](https://github.com/DataMarksman/DataMarksman/blob/master/assets/front_1.gif)](https://www.naver.com)
+[![GIF](https://github.com/DataMarksman/DataMarksman/blob/master/assets/front_1.gif)](https://www.linkedin.com/in/kanghwanseok/)
 
 
 # Hello~~
